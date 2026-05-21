@@ -151,19 +151,6 @@
 
 <br>
 
-<!-- ========================= SUMMARY CARDS ========================= -->
-
-## 📈 GitHub Summary
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghuveer222&theme=tokyonight"
-    width="100%"
-  />
-</p>
-
-<br>
-
 <!-- ========================= ACTIVITY GRAPH ========================= -->
 
 ## 📈 Contribution Graph
