@@ -71,18 +71,25 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://x.com/Raghuveer0802" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="55"/>
-</a>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/raghuveer-singh-panwar-3864b52a0/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:raghuveersinghpanwar222@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/Raghuveer0802" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://raghuveer-portfolio.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </p>
@@ -109,21 +116,23 @@
 <tr>
 <td width="50%">
 
-### 🛒 E-Commerce Website
-- MERN Stack Application
-- Authentication & Payment Integration
-- Add to Cart & Order Management
-- Responsive Modern UI
+### 🛒 OneCart
+- Full-Stack MERN E-Commerce Platform
+- Secure JWT Authentication
+- Razorpay Payment Gateway Integration
+- Product Catalog, Cart & Order Management
+- Responsive React & Tailwind CSS UI
 
 </td>
 
 <td width="50%">
 
-### 🚚 Transportation Scheduling System
-- Goods Tracking System
-- Google Maps API Integration
-- Distance & Fare Calculation
-- MongoDB Trip History
+### 🤖 AI Interview Agent
+- AI-Powered Interview Preparation Platform
+- Technical & HR Mock Interviews
+- Gemini/Groq API Based Responses
+- JWT Authentication & Protected Routes
+- Credit-Based Interview Sessions
 
 </td>
 </tr>
