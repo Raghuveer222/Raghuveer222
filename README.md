@@ -140,26 +140,6 @@
 
 <br>
 
-<!-- ========================= GITHUB STATS ========================= -->
-
-## 📊 GitHub Stats
-
-<p align="left">
-
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raghuveer222&show_icons=true&theme=tokyonight&hide_border=true"
-  height="180" align="left"
-/>
-
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raghuveer222&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
-</p>
-
-<br>
-
 <!-- ========================= ACTIVITY GRAPH ========================= -->
 
 ## 📈 Contribution Graph
